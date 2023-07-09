@@ -1,0 +1,24 @@
+Git init
+
+Git add  <file name>  == working direcctory to staging area
+
+git status  = give status
+
+git commit -m "message" == to commit the current staged files to repo with commit message
+
+git log === commit panna details irukkumm
+
+================= add local repo to git repositay
+
+git remote add <name>(mostly origin) https://......  
+
+git branch -m main(changing branch name or we can skip the step)
+
+gir push -u origin(this is only name) master(branch) 
+
+============= Adding exisiting file in git repo to local repo 
+
+git pulll origin master 
+ot 
+git pull origin
+====================
